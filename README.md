@@ -1,4 +1,7 @@
-<img align="right" width="45%" src="./assets/cover.webp" alt="cover" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/cover-dark.webp" />
+  <img align="right" width="45%" src="./assets/cover-light.webp" alt="cover" />
+</picture>
 
 ### Hi, I'm xinrenleiZZY 👋
 
