@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./assets/cover.webp" alt="cover" width="100%" />
-</p>
+<img align="right" width="45%" src="./assets/cover.webp" alt="cover" />
 
 ### Hi, I'm xinrenleiZZY 👋
 
