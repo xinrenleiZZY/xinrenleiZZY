@@ -36,9 +36,11 @@ I build automation that takes repetitive work off people's hands — procurement
 
 | Project | What it does | Stack |
 | :-- | :-- | :-- |
-| [AutoReplenishment](https://github.com/xinrenleiZZY/AutoReplenishment) | AI 驱动的采购补货决策平台：数据采集 → 预测 → 评分 → 建议 | Python · AI |
-| [openclaw-sync-tray](https://github.com/xinrenleiZZY/openclaw-sync-tray) | 多机 OpenClaw 用量采集与成本监控 | TypeScript · Next.js · FastAPI |
-| [Scheduled-Task-System](https://github.com/xinrenleiZZY/Scheduled-Task-System) | 定时任务触发 + 飞书通知 | Python · Feishu |
+| [amazon_scraper_system](https://github.com/xinrenleiZZY/amazon_scraper_system) ⭐ 4 | 亚马逊 ASIN 排名监控：采集 → 清洗 → 入库 → 看板 | Python · FastAPI · PostgreSQL |
+| [AutoReplenishment](https://github.com/xinrenleiZZY/AutoReplenishment) ⭐ 1 | AI 驱动的采购补货决策：数据采集 → 预测 → 评分 → 建议 | Python · FastAPI · Next.js |
+| [openclaw-sync-tray](https://github.com/xinrenleiZZY/openclaw-sync-tray) | 模型健康监控中心（MHC）：多机 OpenClaw 用量与成本监控 | TypeScript · Next.js · FastAPI |
+| [Juxing-Space-Station](https://github.com/xinrenleiZZY/Juxing-Space-Station) ⭐ 1 | 聚星空间站：知识产权官网、智库与站点集合 | Python · Web |
+| [Scheduled-Task-System](https://github.com/xinrenleiZZY/Scheduled-Task-System) | 定时任务触发，执行结果推送到飞书 | Python · 飞书 |
 
 #### 🔗 Find me
 
